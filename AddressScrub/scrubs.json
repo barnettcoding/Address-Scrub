@@ -1,0 +1,216 @@
+{"id":"123456748", "title": "Scrub Test", 
+"options": {
+    "removeDuplicates": true,
+    "removeMinors": true,
+    "removeSeniors": true,
+    "removeDeceased": false,
+    "checkForInsurance": false,
+    "skipTrace": false,
+    "address": {
+        "validate": false,
+        "blankIfInvalid": false,
+        "ncoa": false
+    },
+    "email": {
+    "validate": false,
+    "blankIfInvalid": false
+    },
+    "phone": {
+    "validate": false,
+    "blankIfInvalid": false
+    }
+},
+"data": [{"record": "987654321",
+"name": {
+"firstName": "John",
+"lastName": "Smith"
+},
+"dob": "04/22/1982",
+"ssn": "123-45-6789",
+"address": {
+"line1": "1234 My Street",
+"line2": "",
+"city": "Tulsa",
+"state": "OK",
+"postalCode": "74168"
+},
+"email": "john.smith@example.com",
+"phone": "918-123-4567"},
+{"record": "44444444",
+"name": {
+"firstName": "Tony",
+"lastName": "Stark"
+},
+"dob": "09/04/1971",
+"ssn": "111-22-3000",
+"address": {
+"line1": "10880 Malibu Point",
+"line2": "",
+"city": "Malibu",
+"state": "CA",
+"postalCode": "90265"
+},
+"email": "iamironman@example.com",
+"phone": "410-555-1212"},
+{
+"record": "19822019",
+"name": {
+"firstName": "Peter",
+"lastName": "Parker"
+},
+"dob": "04/17/2004",
+"ssn": "765-55-0152",
+"address": {
+"line1": "107 Columbia Hts.",
+"line2": "Apt 1106",
+"city": "Brooklyn",
+"state": "NY",
+"postalCode": "11201"
+},
+"email": "spiderman@email.com",
+"phone": "179-317-9317"
+},
+{
+"record": "77733558",
+"name": {
+"firstName": "Duperman",
+"lastName": "Kent"
+},
+"dob": "06/19/1947",
+"ssn": "655-45-5922",
+"address": {
+"line1": "936 N. Tacoma Ave.",
+"line2": "",
+"city": "Indianapolis",
+"state": "IN",
+"postalCode": "46218"
+},
+"email": "doubledown@email.com",
+"phone": "317-622-7053"
+},
+{
+"record": "77733558",
+"name": {
+"firstName": "Duperman",
+"lastName": "Kent"
+},
+"dob": "06/19/1947",
+"ssn": "655-45-5922",
+"address": {
+"line1": "936 N. Tacoma Ave.",
+"line2": "",
+"city": "Indianapolis",
+"state": "IN",
+"postalCode": "46218"
+},
+"email": "doubledown@email.com",
+"phone": "317-622-7053"
+},
+{
+"record": "16125285",
+"name": {
+"firstName": "Calvin",
+"lastName": "Broadus"
+},
+"dob": "11/04/1967",
+"ssn": "729-94-1941",
+"address": {
+"line1": "420 W. Cannibus St.",
+"line2": "",
+"city": "Compton",
+"state": "CA",
+"postalCode": "90244"
+},
+"email": "snoopy@email.com",
+"phone": "918-187-4200"
+},
+{
+"record": "16125285",
+"name": {
+"firstName": "Calvin",
+"lastName": "Broadus"
+},
+"dob": "11/04/1967",
+"ssn": "729-94-1941",
+"address": {
+"line1": "420 W. Cannibus St.",
+"line2": "",
+"city": "Compton",
+"state": "CA",
+"postalCode": "90244"
+},
+"email": "snoopy@email.com",
+"phone": "918-187-4200"
+},
+{
+"record": "12498526",
+"name": {
+"firstName": "Caiden",
+"lastName": "Johnson"
+},
+"dob": "07/01/2013",
+"ssn": "466-21-4040",
+"address": {
+"line1": "5570 N. Guilford St.",
+"line2": "Apt D",
+"city": "Newark",
+"state": "NJ",
+"postalCode": "97305"
+},
+"email": "",
+"phone": ""
+},
+{
+"record": "28463791",
+"name": {
+"firstName": "Mila",
+"lastName": "Johnson"
+},
+"dob": "03/12/2015",
+"ssn": "399-21-3030",
+"address": {
+"line1": "5570 N. Guilford St.",
+"line2": "Apt D",
+"city": "Newark",
+"state": "NJ",
+"postalCode": "97305"
+},
+"email": "",
+"phone": ""
+},
+{
+"record": "10111011",
+"name": {
+    "firstName": "Steven",
+    "lastName": "Rogers"
+},
+"dob": "07/04/1925",
+"ssn": "035-00-4545",
+"address": {
+    "line1": "1911 Fulton Ave.",
+    "line2": "Suite 6",
+    "city": "Queens",
+    "state": "NY",
+    "postalCode": "11265"
+},
+"email": "capnusa@email.com",
+"phone": ""
+},
+{
+    "record": "20412536",
+    "name": {
+        "firstName": "Hiro",
+        "lastName": "Nakamura"
+    },
+    "dob": "06/29/1957",
+    "ssn": "035-00-4545",
+    "address": {
+        "line1": "2037 Arigato Pl.",
+        "line2": "Apt. 1926",
+        "city": "Los Angeles",
+        "state": "CA",
+        "postalCode": "17963"
+    },
+    "email": "Yataaa@email.com",
+    "phone": "465-33-9058"
+    }]}

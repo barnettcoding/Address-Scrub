@@ -1,0 +1,17 @@
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\AddressScrub.exe
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\AddressScrub.deps.json
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\AddressScrub.runtimeconfig.json
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\AddressScrub.dll
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\AddressScrub.pdb
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.csproj.AssemblyReference.cache
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.AssemblyInfoInputs.cache
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.AssemblyInfo.cs
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.csproj.CoreCompileInputs.cache
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.csproj.CopyComplete
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.dll
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\refint\AddressScrub.dll
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.pdb
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\AddressScrub.genruntimeconfig.cache
+C:\Dev\Tony\Actual Projects\AddressScrub\AddressScrub\obj\Debug\net6.0\ref\AddressScrub.dll

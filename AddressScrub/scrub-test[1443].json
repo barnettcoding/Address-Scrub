@@ -1,0 +1,80 @@
+{
+  "id": "62f05b39bed0e143e3d67ea1",
+  "title": "ACA Scrub",
+  "options": {
+    "address": {
+      "validation": true,
+      "ncoa": true,
+      "skip": false,
+      "blankIfInvalid": false
+    },
+    "email": {
+      "validation": false,
+      "blankIfInvalid": false
+    },
+    "phone": {
+      "validation": true,
+      "skip": false,
+      "blankIfInvalid": false
+    }
+  },
+  "data": [
+    {
+      "id": "123456",
+      "name": {
+        "first": "Jon",
+        "middle": "J",
+        "last": "Doe"
+      },
+      "business name": null,
+      "address": {
+        "street": "123 Test Dr",
+        "city": "Indianapolis",
+        "state": "IN",
+        "postalCode": "46205"
+      },
+      "email": null,
+      "phone": "(555) 555-5555",
+      "ssn": "000-00-0000",
+      "dob": "1980-10-10"
+    },
+    {
+      "id": "123456",
+      "name": {
+        "first": "Jon",
+        "middle": "J",
+        "last": "Doe"
+      },
+      "business name": null,
+      "address": {
+        "street": "123 Test Dr",
+        "city": "Indianapolis",
+        "state": "IN",
+        "postalCode": "46205"
+      },
+      "email": null,
+      "phone": "(555) 555-5555",
+      "ssn": "000-00-0000",
+      "dob": "1980-10-10"
+    },
+    {
+      "id": "12345678",
+      "name": {
+        "first": "Bill",
+        "middle": null,
+        "last": "Polanski"
+      },
+      "business name": null,
+      "address": {
+        "street": "123 Test Dr",
+        "city": "Indianapolis",
+        "state": "IN",
+        "postalCode": "46205"
+      },
+      "email": null,
+      "phone": "(555) 555-5555",
+      "ssn": "000-00-0000",
+      "dob": "1980-10-10"
+    }
+  ]
+}

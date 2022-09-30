@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yb7NjOs9Cb+fF5nVSLeePK/KZRlnFUGZselfYhMytkil7ynyiSb2N3W1WBqDdDhrAJjvcnAVq1prrhggNq2aSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Tony\\Actual Projects\\AddressScrub\\AddressScrub\\AddressScrub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABarnett\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
